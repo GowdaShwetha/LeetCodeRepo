@@ -1,2 +1,5 @@
 # LeetCodeRepo
-Storing all solved question in github
+
+# 30DaysFaangCompany 
+
+[] (https://www.proelevate.in/dsa-practice/6-companies-30-days)
